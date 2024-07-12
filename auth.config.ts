@@ -1,5 +1,9 @@
 import type { NextAuthConfig } from "next-auth";
 
+// TEST CREDENTIALS
+// Email: user@nextmail.com
+// Password: 123456
+
 export const authConfig = {
   pages: {
     signIn: "/login",
